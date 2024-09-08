@@ -1,3 +1,4 @@
+//This script is from episode #10
 #include <a_samp>
 #include <YSI_Coding\y_timers>
 #include <a_mysql>
